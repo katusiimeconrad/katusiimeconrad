@@ -10,3 +10,5 @@ Software Engineer | Full Stack Developer
 - Spring Framework
 - Android
 - CI/CD
+- Kotlin
+
